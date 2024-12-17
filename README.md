@@ -26,7 +26,7 @@
 
 Grabcam é um script baseado em bash que é oficialmente feito para termux, a partir desta ferramenta pode hackear a câmera de suas vítimas por uma página de oferta simples. Esta ferramenta funciona tanto em dispositivos Android com root quanto em dispositivos Android sem root.
 
-<p align="center"><a href=""><img title="D1xgxS3c" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
+<p align="center"><a href=""><img title="D1xgxS3c" src="https://raw.githubusercontent.com/D1xgxS3c/D1xgxS3c/refs/heads/main/D1xgxS3c.gif"></a>
 </p>
 
 ## DISPONÍVEL EM:
