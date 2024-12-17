@@ -44,10 +44,10 @@ Grabcam é um script baseado em bash que é oficialmente feito para termux, a pa
 * ngrok
 
 ## CARACTERÍSTICAS :
-* [+] Real camera hacking !
-* [+] Updated maintainence !
-* [+] Ngrok link !
-* [+] Easy for Beginners !
+* [+] Hacking de câmera real!
+* [+] Manutenção atualizada!
+* [+] Link do Ngrok!
+* [+] Fácil para iniciantes!
 
 ## INSTALAÇÃO [Termux] :
 
@@ -97,16 +97,13 @@ __SELECIONE A OPÇÃO__ :
 
 ## CONECTE-ME :
 
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
-<a href="https://github.com/D1xgxS3c"><img title="Github" src="https://img.shields.io/badge/d1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/d1xgxs3c)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/d1xgxs3c)
-[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
-[![Instagram](https://img.shields.io/badge/DISCUSSION-FORUM-blue?style=for-the-badge&logo=forum)](https://rebrand.ly/nhforums)
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<p align="center">
+<a href="https://rebrand.ly/githubprof"><img title="GitHub" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/D1xgxS3c"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://rebrand.ly/hckrgroups"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
+</p>  
 
 ## BUY ME A COFFEE :
 
