@@ -95,14 +95,10 @@ __SELECIONE A OPÇÃO__ :
 <img width="45%" src="https://user-images.githubusercontent.com/49580304/96668019-13a5c400-130f-11eb-9b30-c96a055b7532.jpg"/>
 </p>
 
-## WATCH VIDEO [Termux]
-
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
-
-## CONNECT WITH US :
+## CONECTE COMIGO :
 
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/d1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/insgrm)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/noobwebs)
 [![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
