@@ -111,7 +111,7 @@ __SELECIONE A OPÇÃO__ :
 ## BUY ME A COFFEE :
 
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="D1xgxS3c" src="https://i.etsystatic.com/32289224/r/il/294bb2/3603423963/il_794xN.3603423963_tuhu.jpg"></a>
+<a href="https://rebrand.ly/BuyCoffee"><img title="D1xgxS3c" src="https://ganeshkumarm1.medium.com/get-support-from-your-audience-via-buy-me-a-coffee-84009b6e80dc"></a>
 </p>
 
 ## WARNING : 
