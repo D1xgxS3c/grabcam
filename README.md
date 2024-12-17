@@ -95,7 +95,7 @@ __SELECIONE A OPÇÃO__ :
 <img width="45%" src="https://user-images.githubusercontent.com/49580304/96668019-13a5c400-130f-11eb-9b30-c96a055b7532.jpg"/>
 </p>
 
-## CONECTE COMIGO :
+## CONECTE-ME :
 
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
 <a href="https://github.com/D1xgxS3c"><img title="Github" src="https://img.shields.io/badge/d1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
