@@ -14,11 +14,11 @@
 <a href="https://rebrand.ly/D1xgxS3c"><img title="YouTube" src="https://img.shields.io/badge/YouTube-D1xgxS3c-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/grabcam?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/grabcam?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/grabcam?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/D1xgxS3c"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/D1xgxS3c"><img title="Followers" src="https://img.shields.io/github/followers/D1xgxS3c?color=blue&style=flat-square"></a>
+<a href="https://github.com/D1xgxS3c"><img title="Stars" src="https://img.shields.io/github/stars/D1xgxS3c/grabcam?color=red&style=flat-square"></a>
+<a href="https://github.com/D1xgxS3c"><img title="Forks" src="https://img.shields.io/github/forks/D1xgxS3c/grabcam?color=red&style=flat-square"></a>
+<a href="https://github.com/D1xgxS3c"><img title="Watching" src="https://img.shields.io/github/watchers/D1xgxS3c/grabcam?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
