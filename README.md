@@ -98,14 +98,14 @@ __SELECIONE A OPÇÃO__ :
 ## CONECTE-ME :
 
 <p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="GitHub" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/D1xgxS3c"><img title="GitHub" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/D1xgxS3c"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a>
-<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://rebrand.ly/hckrgroups"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://rebrand.ly/D1xgxS3c"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://chat.whatsapp.com/KzyTcK7ZN2C16p8sdS8pam"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/D1xgxS3c"><img title="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
 </p>  
 
-## BUY ME A COFFEE :
+## COMPRE-ME UM CAFÉ :
 
 <p>
 <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Compre-me um café" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
