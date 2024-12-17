@@ -7,7 +7,7 @@
 <a href="https://bit.ly/2BNk3P1"><img title="Manutenção" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/2BNk3P1"><img title="Grabcam" src="https://github.com/D1xgxS3c/grabcam/blob/main/GRABCAM.png width:50px;"></a>
+<a href="https://bit.ly/2BNk3P1"><img title="Grabcam" src="https://github.com/D1xgxS3c/grabcam/blob/main/GRABCAM.png "></a>
 </p>
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
