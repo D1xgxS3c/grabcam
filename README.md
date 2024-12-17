@@ -100,7 +100,7 @@ __SELECIONE A OPÇÃO__ :
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://rebrand.ly/fbmsnger)
 <a href="https://github.com/D1xgxS3c"><img title="Github" src="https://img.shields.io/badge/d1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/d1xgxs3c)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/noobwebs)
+[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/d1xgxs3c)
 [![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://rebrand.ly/linkedinprof)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
@@ -114,5 +114,5 @@ __SELECIONE A OPÇÃO__ :
 <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Compre-me um café" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 
-## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+## AVISO: 
+***Esta ferramenta é apenas para fins educacionais. Se você usar esta ferramenta para outros fins, exceto educação, não seremos responsáveis ​​em tais casos.***
